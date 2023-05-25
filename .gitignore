@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn integrity file
+.yarn-integrity
+
+# Ignore dist or build directories
+/dist/
+/build/
+
+# Ignore environment variables file
+.env
+
+
+# Ignore yarn.lock for Yarn
+yarn.lock
